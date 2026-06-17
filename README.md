@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Paras Gupta 👋
 
-<!--
-**Paras543/Paras543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer focused on building production AI systems, LLM applications, and intelligent automation solutions.
 
-Here are some ideas to get you started:
+Currently interested in:
+- Agentic AI
+- Financial ML
+- GenAI Applications
+- AI Infrastructure
+- SaaS Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Python • FastAPI • LangChain • OpenAI • PostgreSQL • Redis
+
+Machine Learning:
+Scikit-Learn • XGBoost • Pandas • NumPy
+
+Frontend:
+Next.js • React • TypeScript
+
+Cloud:
+Docker • Linux • Git • Vercel
+
+
+## Featured Projects
+
+### 🏥 Healthcare AI SaaS
+AI-powered clinic management platform handling 30-40 appointments/day through WhatsApp automation.
+
+### 📈 Financial Distress Early Warning System
+ML system predicting corporate bankruptcy risk with ROC-AUC 0.93.
+
+### 🤖 AI Business Auditor
+Analyzes startup operations and identifies automation opportunities using LLMs.
+
+### 📊 Stock Alert Engine
+Real-time stock screening and notification platform.
+
+
