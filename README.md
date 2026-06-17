@@ -127,12 +127,4 @@ Features:
 * Launch scalable SaaS solutions
 * Publish technical case studies and engineering write-ups
 
----
 
-## Contact
-
-LinkedIn: [Your LinkedIn]
-
-Portfolio: [Your Portfolio]
-
-Email: [Your Email]
